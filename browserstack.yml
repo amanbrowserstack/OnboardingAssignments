@@ -35,9 +35,9 @@ platforms:
     osVersion: 10
     browserName: Edge
     browserVersion: latest
-  - deviceName: Samsung Galaxy S22 Ultra
+  - deviceName: Samsung Galaxy S25
     browserName: chrome
-    osVersion: 12.0
+    osVersion: 15.0
     
 # =======================
 # Parallels per Platform
