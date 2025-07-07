@@ -12,6 +12,6 @@
   "devDependencies": {
     "@playwright/test": "^1.52.0",
     "@types/node": "^22.15.30",
-    "browserstack-node-sdk": "^1.36.1"
+    "browserstack-node-sdk": "^1.36.7"
   }
 }

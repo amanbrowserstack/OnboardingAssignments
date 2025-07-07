@@ -30,6 +30,5 @@ test('StackDemo order flow', async ({ page }) => {
   await page.click('#checkout-shipping-continue');
   
   // Confirm order success
-  await expect(page.locator('#confirmation-message')).toContainText('Your Order has been successfully placed.');
-    
+  await expect(page.locator('#confirmation-message')).toContainText('Your Order has been successfully placed.');   
 });
