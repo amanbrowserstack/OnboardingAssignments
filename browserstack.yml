@@ -35,6 +35,12 @@ platforms:
     osVersion: Big Sur
     browserName: chrome
     browserVersion: latest
+  - deviceName: iPhone 14
+    osVersion: 16
+    platformName: iOS
+  - deviceName: Samsung Galaxy S22
+    osVersion: 12.0
+    platformName: Android
     
 # =======================
 # Parallels per Platform
